@@ -1,4 +1,4 @@
-# Seven-Segment LED Display Project
+# Seven-Segment LED Display
 
 ## Overview
 
